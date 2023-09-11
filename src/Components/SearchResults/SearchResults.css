@@ -1,0 +1,16 @@
+
+.SearchResults {
+    background-color: rgba(1,12,63,.7);
+    box-shadow: 0 4px 2px 2px #000;
+    height: 950px;
+    overflow-y: scroll;
+    padding: .88rem;
+    width: 50%
+}
+
+@media only screen and (max-width: 1020px) {
+    .SearchResults {
+        margin-bottom:2rem;
+        width: 90%
+    }
+}

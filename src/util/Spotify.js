@@ -1,7 +1,7 @@
 let accessToken = window.localStorage.getItem("spotifyItem");
 const clientID = "dade844bc956420d9c3e37fb3c88cbc8";
 // const redirectURI = "http://localhost:3000/";
-const redirectURI = "https://www.jamming-you-tube.surge.sh";
+const redirectURI = "https://jammming-you-tube.netlify.app/";
 
 
 const Spotify = {
